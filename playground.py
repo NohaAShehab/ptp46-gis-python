@@ -19,3 +19,6 @@ def new():
     print("test")
     return "safd"
     print("----")
+
+# modules,packages, try, except, code functions
+# re --> regex ===> re.match, re.fullmatch
