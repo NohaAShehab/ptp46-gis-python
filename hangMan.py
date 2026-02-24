@@ -1,4 +1,4 @@
-
+import re
 def get_char_index(char, word):
     indices = []
     for index, letter in enumerate(word):
